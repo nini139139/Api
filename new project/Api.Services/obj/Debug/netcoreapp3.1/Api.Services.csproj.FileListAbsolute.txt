@@ -1,0 +1,12 @@
+C:\Users\ninom\source\repos\new project\Api.Services\bin\Debug\netcoreapp3.1\Api.Services.deps.json
+C:\Users\ninom\source\repos\new project\Api.Services\bin\Debug\netcoreapp3.1\Api.Services.runtimeconfig.json
+C:\Users\ninom\source\repos\new project\Api.Services\bin\Debug\netcoreapp3.1\Api.Services.runtimeconfig.dev.json
+C:\Users\ninom\source\repos\new project\Api.Services\bin\Debug\netcoreapp3.1\Api.Services.dll
+C:\Users\ninom\source\repos\new project\Api.Services\bin\Debug\netcoreapp3.1\Api.Services.pdb
+C:\Users\ninom\source\repos\new project\Api.Services\obj\Debug\netcoreapp3.1\Api.Services.AssemblyInfoInputs.cache
+C:\Users\ninom\source\repos\new project\Api.Services\obj\Debug\netcoreapp3.1\Api.Services.AssemblyInfo.cs
+C:\Users\ninom\source\repos\new project\Api.Services\obj\Debug\netcoreapp3.1\Api.Services.dll
+C:\Users\ninom\source\repos\new project\Api.Services\obj\Debug\netcoreapp3.1\Api.Services.pdb
+C:\Users\ninom\source\repos\new project\Api.Services\obj\Debug\netcoreapp3.1\Api.Services.genruntimeconfig.cache
+C:\Users\ninom\source\repos\new project\Api.Services\obj\Debug\netcoreapp3.1\Api.Services.csprojAssemblyReference.cache
+C:\Users\ninom\source\repos\new project\Api.Services\obj\Debug\netcoreapp3.1\Api.Services.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Users\ninom\source\repos\new project\Api.Repository\bin\Debug\netcoreapp3.1\Api.Repository.deps.json
+C:\Users\ninom\source\repos\new project\Api.Repository\bin\Debug\netcoreapp3.1\Api.Repository.runtimeconfig.json
+C:\Users\ninom\source\repos\new project\Api.Repository\bin\Debug\netcoreapp3.1\Api.Repository.runtimeconfig.dev.json
+C:\Users\ninom\source\repos\new project\Api.Repository\bin\Debug\netcoreapp3.1\Api.Repository.dll
+C:\Users\ninom\source\repos\new project\Api.Repository\bin\Debug\netcoreapp3.1\Api.Repository.pdb
+C:\Users\ninom\source\repos\new project\Api.Repository\bin\Debug\netcoreapp3.1\Api.Domain.dll
+C:\Users\ninom\source\repos\new project\Api.Repository\bin\Debug\netcoreapp3.1\Api.Domain.pdb
+C:\Users\ninom\source\repos\new project\Api.Repository\obj\Debug\netcoreapp3.1\Api.Repository.csprojAssemblyReference.cache
+C:\Users\ninom\source\repos\new project\Api.Repository\obj\Debug\netcoreapp3.1\Api.Repository.AssemblyInfoInputs.cache
+C:\Users\ninom\source\repos\new project\Api.Repository\obj\Debug\netcoreapp3.1\Api.Repository.AssemblyInfo.cs
+C:\Users\ninom\source\repos\new project\Api.Repository\obj\Debug\netcoreapp3.1\Api.Repository.csproj.CopyComplete
+C:\Users\ninom\source\repos\new project\Api.Repository\obj\Debug\netcoreapp3.1\Api.Repository.dll
+C:\Users\ninom\source\repos\new project\Api.Repository\obj\Debug\netcoreapp3.1\Api.Repository.pdb
+C:\Users\ninom\source\repos\new project\Api.Repository\obj\Debug\netcoreapp3.1\Api.Repository.genruntimeconfig.cache
+C:\Users\ninom\source\repos\new project\Api.Repository\obj\Debug\netcoreapp3.1\Api.Repository.csproj.CoreCompileInputs.cache

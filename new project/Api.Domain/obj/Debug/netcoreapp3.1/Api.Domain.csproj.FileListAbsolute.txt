@@ -1,0 +1,12 @@
+C:\Users\ninom\source\repos\new project\Api.Domain\bin\Debug\netcoreapp3.1\Api.Domain.deps.json
+C:\Users\ninom\source\repos\new project\Api.Domain\bin\Debug\netcoreapp3.1\Api.Domain.runtimeconfig.json
+C:\Users\ninom\source\repos\new project\Api.Domain\bin\Debug\netcoreapp3.1\Api.Domain.runtimeconfig.dev.json
+C:\Users\ninom\source\repos\new project\Api.Domain\bin\Debug\netcoreapp3.1\Api.Domain.dll
+C:\Users\ninom\source\repos\new project\Api.Domain\bin\Debug\netcoreapp3.1\Api.Domain.pdb
+C:\Users\ninom\source\repos\new project\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.AssemblyInfoInputs.cache
+C:\Users\ninom\source\repos\new project\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.AssemblyInfo.cs
+C:\Users\ninom\source\repos\new project\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ninom\source\repos\new project\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.dll
+C:\Users\ninom\source\repos\new project\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.pdb
+C:\Users\ninom\source\repos\new project\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.genruntimeconfig.cache
+C:\Users\ninom\source\repos\new project\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.csprojAssemblyReference.cache
